@@ -5,9 +5,9 @@ namespace Questao2
 {
     public class NumerosDiferentes
     {
-        public int[] listaNumeros = new int[] { 8, 12, 16, 4, 0, 20 };
+        public int[] listaNumeros = new int[] {1, 5, 3, 4, 2 };
 
-        public int diferentes = 4;
+        public int diferentes = 2;
 
         public int ContaParesDiferentes()
         {
