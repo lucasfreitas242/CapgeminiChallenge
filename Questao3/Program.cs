@@ -52,7 +52,7 @@ namespace Questao3
             {
                 for (int j = 0; j < coluna; j++)
                 {
-                    if (matrizBase[i, j] == 0)
+                    if (matrizBase[j, i] == 0)
                     {
                         break;
                     }
