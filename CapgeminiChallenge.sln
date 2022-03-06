@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao1", "CapgeminiChallenge\Questao1.csproj", "{21A71200-B3E8-4FA5-BE75-409EA790929E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao2", "Questao2\Questao2.csproj", "{F718536F-11F3-4C29-A50B-D0FBAF0CB015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao3", "Questao3\Questao3.csproj", "{0193C263-CD01-4FB6-923B-E2D5439CA948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A71200-B3E8-4FA5-BE75-409EA790929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A71200-B3E8-4FA5-BE75-409EA790929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A71200-B3E8-4FA5-BE75-409EA790929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A71200-B3E8-4FA5-BE75-409EA790929E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F718536F-11F3-4C29-A50B-D0FBAF0CB015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F718536F-11F3-4C29-A50B-D0FBAF0CB015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F718536F-11F3-4C29-A50B-D0FBAF0CB015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F718536F-11F3-4C29-A50B-D0FBAF0CB015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0193C263-CD01-4FB6-923B-E2D5439CA948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0193C263-CD01-4FB6-923B-E2D5439CA948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0193C263-CD01-4FB6-923B-E2D5439CA948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0193C263-CD01-4FB6-923B-E2D5439CA948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70657DA-8F00-4E22-954A-F486BB231C24}
+	EndGlobalSection
+EndGlobal
